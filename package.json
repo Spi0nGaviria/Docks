@@ -1,0 +1,22 @@
+{
+  "name": "Docks",
+  "description": "Client Bot: Spi0n#0640",
+  "main": "index.js",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "discord.js": "^11.4.2",
+    "fs": "^0.0.2",
+    "moment": "^2.23.0",
+    "ms": "^2.1.1",
+    "quick.db": "^6.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cruise™",
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "ISC"
+}
